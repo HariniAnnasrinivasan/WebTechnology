@@ -1,0 +1,32 @@
+body{
+    font-family:sans-serif;
+    font-size:3ch;
+    background-color:lightgray;
+    margin:0;
+    padding:40px;
+    color:black;
+}
+
+header,footer,section
+{
+    background:white;
+    margin-bottom:20px;
+    border-radius:10px;
+    padding:20px;
+}
+
+h1
+{
+    color:green;
+}
+
+h2
+{
+    color:black;
+    border-bottom:2px solid green;
+}
+
+ul
+{
+    list-style-type: square;
+}
